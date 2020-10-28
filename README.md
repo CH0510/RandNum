@@ -1,0 +1,3 @@
+# RandNum
+poisson、gaussian、rayleigh、uniform...
+生成随机数，存入文件，matlab读取文件绘图
